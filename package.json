@@ -1,0 +1,23 @@
+{
+  "name": "ruq",
+  "version": "0.0.1",
+  "description": "Node module so you don't need to use relative requires to include files in same project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankpinto/ruq.git"
+  },
+  "keywords": [
+    "require",
+    "root"
+  ],
+  "author": "Frank Pinto <frank.joseph.pinto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankpinto/ruq/issues"
+  },
+  "homepage": "https://github.com/frankpinto/ruq#readme"
+}
